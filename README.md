@@ -34,8 +34,13 @@ copied to a Linux server or VM and run there.
 
 ## Bugs fix
 http://timd.cn/rust-aya-1/
+
 https://github.com/aya-rs/aya-template/pull/163/files#diff-8e30eddcdf707123f63c97cb6a85f9cb641eb02d619ea4c8293c3c36036276a9L7
+
 https://dev.to/littlejo/my-first-aya-program-2j0p
+
+## Hwo to run 
+PROJECT_NAME=aya-test cargo run
 ## License
 
 With the exception of eBPF code, aya-test is distributed under the terms
